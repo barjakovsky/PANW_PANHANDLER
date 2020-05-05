@@ -15,7 +15,7 @@ labels:
 
 variables:
   - name: CHUCK_NORRIS
-    description: Certificate name for self-signed CA cert
+    description: testa
     default: GlobalProtect_CA
     type_hint: text
 
